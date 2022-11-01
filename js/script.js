@@ -21,10 +21,9 @@ if (navigator.serviceWorker) {
 function enterClicked() {
   //input
   const radius = parseFloat(document.getElementById("radius-of-sphere").value)
-  
 
   //process
-  const volume = 3.0/4.0 * Math.PI * radius ** 3
+  const volume = (3.0 / 4.0) * Math.PI * radius ** 3
 
   //output
   document.getElementById("volume-of-sphere").innerHTML =
