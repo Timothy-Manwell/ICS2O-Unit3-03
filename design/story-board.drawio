@@ -1,20 +1,41 @@
 <mxfile host="65bd71144e">
     <diagram id="pIaEtrtLPv3HG8r1JEND" name="Page-1">
-        <mxGraphModel dx="690" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="934" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="80" y="80" width="400" height="300" as="geometry"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="80" width="550" height="410" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="80" y="80" width="400" height="40" as="geometry"/>
+                <mxCell id="3" value="Volume of a Sphere, With JS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="80" width="550" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="110" y="220" width="120" height="20" as="geometry"/>
+                <mxCell id="6" value="Calculate" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="320" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Calculate" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;" vertex="1" parent="1">
-                    <mxGeometry x="110" y="270" width="100" height="40" as="geometry"/>
+                <mxCell id="8" value="Volume of a Sphere, With JS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="140" width="420" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Formula&lt;br&gt;V = 4/3&amp;nbsp;&lt;span style=&quot;color: rgb(189 , 193 , 198) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;π r&lt;/span&gt;&lt;font color=&quot;#bdc1c6&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;³&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="180" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Enter the following dimensions" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="220" width="290" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Radius" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="250" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="280" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="mm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="275" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="The volume of the sphere is: ? mm&lt;span style=&quot;color: rgb(189 , 193 , 198) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;³&lt;/span&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="370" width="240" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="139" width="132" height="71" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
